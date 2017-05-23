@@ -1,0 +1,1 @@
+This is the storry abuot an operating system that went from baad to wurse.

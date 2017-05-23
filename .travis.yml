@@ -1,0 +1,5 @@
+install:
+  - sudo apt-get install spell
+
+script: 
+  - spell my_prose.md
